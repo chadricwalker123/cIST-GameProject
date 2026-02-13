@@ -1,3 +1,4 @@
 Main character placeholder sprite.
 Initial art/design change.
 Added main character placeholder art/design
+Updated main character placeholder art/design
